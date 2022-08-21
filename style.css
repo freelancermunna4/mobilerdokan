@@ -59,7 +59,7 @@ button, button:focus {
 .color-yellow-bg {
     background: #FFD289;
 }
-
+/*==================================*/
 /*  top sale template   */
 #top-sale .owl-carousel .item .product a {
     overflow: hidden;
