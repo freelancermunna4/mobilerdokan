@@ -61,6 +61,7 @@ button, button:focus {
 }
 /*==================================*/
 /*  top sale template   */
+/*==================================*/
 #top-sale .owl-carousel .item .product a {
     overflow: hidden;
 }
