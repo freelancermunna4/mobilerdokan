@@ -30,7 +30,7 @@
          include ('Template/_blogs.php');
     /*  include blog area  */
 
-//developer freelancermunna4
+//developer freelancermunna4@gmail.com
 
 ?>
 
